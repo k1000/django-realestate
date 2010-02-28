@@ -1,0 +1,488 @@
+# translation of django.po to
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# kamil <selwak@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-05-31 00:21+0100\n"
+"PO-Revision-Date: 2007-05-29 20:56+0100\n"
+"Last-Translator: kamil <selwak@gmail.com>\n"
+"Language-Team:  <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: models.py:27
+msgid "SR"
+msgstr "SR"
+
+#: models.py:28
+msgid "SNR"
+msgstr "SNR"
+
+#: models.py:31
+msgid "Foto"
+msgstr "Foto"
+
+#: models.py:32 models.py:285
+msgid "Imagen"
+msgstr "Imagen"
+
+#: models.py:33
+msgid "Plano"
+msgstr "Plano"
+
+#: models.py:34
+msgid "Dibujo"
+msgstr "Dibujo"
+
+#: models.py:35
+msgid "Panorama 360"
+msgstr "Panorama 360º"
+
+#: models.py:36
+msgid "Representacion virtual"
+msgstr "Representación virtual"
+
+#: models.py:48
+msgid "characteristica"
+msgstr "característica"
+
+#: models.py:49
+msgid "characteristicas"
+msgstr "características"
+
+#: models.py:52
+msgid "nombre"
+msgstr "nombre"
+
+#: models.py:53
+msgid "apellidos"
+msgstr "apellidos"
+
+#: models.py:54 models.py:255
+msgid "titulo"
+msgstr "titulo"
+
+#: models.py:55 models.py:201
+msgid "dirrecion"
+msgstr "dirección"
+
+#: models.py:56 models.py:157
+msgid "ciudad"
+msgstr "ciudad"
+
+#: models.py:57
+msgid "tel."
+msgstr "tel."
+
+#: models.py:59 models.py:179
+msgid "comentarios"
+msgstr "comentarios"
+
+#: models.py:60
+msgid "NIF"
+msgstr "NIF"
+
+#: models.py:69 models.py:143
+msgid "vendedor"
+msgstr "vendedor"
+
+#: models.py:70
+msgid "vendedores"
+msgstr "vendedores"
+
+#: models.py:88
+msgid "en venta"
+msgstr "en venta"
+
+#: models.py:89
+msgid "vendido"
+msgstr "vendido"
+
+#: models.py:90
+msgid "en \"stand-by\""
+msgstr "en \"stand-by\""
+
+#: models.py:91
+msgid "reservado"
+msgstr "reservado"
+
+#: models.py:94
+msgid "Terreno Rustico"
+msgstr "Terreno Rustico"
+
+#: models.py:95
+msgid "Terreno Urbano"
+msgstr "Terreno Urbano"
+
+#: models.py:96
+msgid "Estudio"
+msgstr "Estudio"
+
+#: models.py:97
+msgid "Piso"
+msgstr "Piso"
+
+#: models.py:98
+msgid "Casa Adosada"
+msgstr "Casa Adosada"
+
+#: models.py:99
+msgid "Semi-adosado"
+msgstr "Semi-adosado"
+
+#: models.py:100
+msgid "Habitacion"
+msgstr "Habitación"
+
+#: models.py:101
+msgid "Locales"
+msgstr "Locales"
+
+#: models.py:102
+msgid "Apartamento"
+msgstr "Apartamento"
+
+#: models.py:103
+msgid "Atico"
+msgstr "Ático"
+
+#: models.py:104
+msgid "Caserio"
+msgstr "Caserío"
+
+#: models.py:107
+msgid "por construir"
+msgstr "por construir"
+
+#: models.py:108
+msgid "en construcion"
+msgstr "en construcción"
+
+#: models.py:109
+msgid "estreno"
+msgstr "estreno"
+
+#: models.py:110
+msgid "nuevo"
+msgstr "nuevo"
+
+#: models.py:111
+msgid "en buen estado"
+msgstr "en buen estado"
+
+#: models.py:112
+msgid "seminuevo"
+msgstr "seminuevo"
+
+#: models.py:113
+msgid "reformado"
+msgstr "reformado"
+
+#: models.py:114
+msgid "por reformar"
+msgstr "por reformar"
+
+#: models.py:115
+msgid "en ruina"
+msgstr "en ruina"
+
+#: models.py:118
+msgid "Central"
+msgstr "Central"
+
+#: models.py:119
+msgid "Afueras"
+msgstr "Afueras"
+
+#: models.py:120
+msgid "Campo"
+msgstr "Campo"
+
+#: models.py:123 models.py:128 models.py:133
+msgid "No"
+msgstr "No"
+
+#: models.py:124
+msgid "Aparcamiento"
+msgstr "Aparcamiento"
+
+#: models.py:125
+msgid "Garaje"
+msgstr "Garaje"
+
+#: models.py:129
+msgid "Mar"
+msgstr "Mar"
+
+#: models.py:130
+msgid "Montana"
+msgstr "Montana"
+
+#: models.py:134
+msgid "Comunitaria"
+msgstr "Comunitaria"
+
+#: models.py:135
+msgid "Privada"
+msgstr "Privada"
+
+#: models.py:138
+msgid "Costa"
+msgstr "Costa"
+
+#: models.py:139
+msgid "Medio"
+msgstr "Medio"
+
+#: models.py:140
+msgid "Monte"
+msgstr "Monte"
+
+#: models.py:142
+msgid "precio"
+msgstr "precio"
+
+#: models.py:144
+msgid "tipo de propiedad"
+msgstr "tipo de propiedad"
+
+#: models.py:145
+msgid "situacion"
+msgstr "situación"
+
+#: models.py:146
+msgid "estado"
+msgstr "estado"
+
+#: models.py:147
+msgid "Destacar?"
+msgstr "Destacar?"
+
+#: models.py:149
+msgid "tipo de via"
+msgstr "tipo de vía"
+
+#: models.py:150
+msgid "calle"
+msgstr "calle"
+
+#: models.py:151
+msgid "nr casa"
+msgstr "nº casa"
+
+#: models.py:152
+msgid "nr vivienda"
+msgstr "nº vivienda"
+
+#: models.py:153
+msgid "puerta"
+msgstr "puerta"
+
+#: models.py:154
+msgid "codigo postal"
+msgstr "código postal"
+
+#: models.py:155
+msgid "provincia"
+msgstr "provincia"
+
+#: models.py:157
+msgid "nombre completo como 'San Cristobal de La Laguna'"
+msgstr "nombre completo como 'San Cristóbal de La Laguna'"
+
+#: models.py:158
+msgid "latitud geografica"
+msgstr "latitud geográfica"
+
+#: models.py:159
+msgid "longitud geografica"
+msgstr "longitud geográfica"
+
+#: models.py:160
+msgid "ubicacion"
+msgstr "ubicación"
+
+#: models.py:161
+msgid "anillo"
+msgstr "anillo"
+
+#: models.py:163
+msgid "introducido en"
+msgstr "introducido en"
+
+#: models.py:164
+msgid "modificado en"
+msgstr "modificado en"
+
+#: models.py:166 models.py:275
+msgid "Publicar?"
+msgstr "Publicar?"
+
+#: models.py:169
+msgid "m<sup>2</sup>"
+msgstr "m<sup>2</sup>"
+
+#: models.py:170
+msgid "m<sup>2</sup> del terreno"
+msgstr "m<sup>2</sup> del terreno"
+
+#: models.py:171
+msgid "dormitorios"
+msgstr "dormitorios"
+
+#: models.py:172
+msgid "banos"
+msgstr "baños"
+
+#: models.py:173
+msgid "aparcamiento"
+msgstr "aparcamiento"
+
+#: models.py:174
+msgid "plazas de garaje"
+msgstr "plazas de garaje"
+
+#: models.py:175
+msgid "construido en"
+msgstr "construido en"
+
+#: models.py:176
+msgid "piscina"
+msgstr "piscina"
+
+#: models.py:177
+msgid "vistas"
+msgstr "vistas"
+
+#: models.py:178 models.py:257 models.py:273
+msgid "descripcion"
+msgstr "descripción"
+
+#: models.py:178
+msgid ""
+"se puede aplicar traducion como \"[en]...english text...[/en] texto sin "
+"traducir [es]...texto espanol...[/es]\" etc"
+msgstr ""
+"se puede aplicar tradición como \"[en]...english text...[/en] texto sin "
+"traducir [es]...texto español...[/es]\" etc"
+
+#: models.py:179
+msgid "!no se van a publicar!"
+msgstr "!no se van a publicar!"
+
+#: models.py:181
+msgid "imagen de portada"
+msgstr "imagen de portada"
+
+#: models.py:204
+msgid "propiedad"
+msgstr "propiedad"
+
+#: models.py:205
+msgid "propiedades"
+msgstr "propiedades"
+
+#: models.py:248
+msgid "caracteristicas"
+msgstr "características"
+
+#: models.py:249
+msgid "localidad"
+msgstr "localidad"
+
+#: models.py:254 views.py:47
+msgid "Propiedad"
+msgstr "Propiedad"
+
+#: models.py:256
+msgid "slug"
+msgstr "slug"
+
+#: models.py:257
+msgid ""
+"se puede aplicar  traducion como \"[en]...english text...[/en] texto sin "
+"traducir [es]...texto espanol...[/es]\" etc"
+msgstr ""
+"se puede aplicar  tradición como \"[en]...english text...[/en] texto sin "
+"traducir [es]...texto español...[/es]\" etc"
+
+#: models.py:258 models.py:276
+msgid "tipo"
+msgstr "tipo"
+
+#: models.py:267
+msgid "Galeria"
+msgstr "Galería"
+
+#: models.py:268
+msgid "Galerias"
+msgstr "Galerías"
+
+#: models.py:274
+msgid "imagen"
+msgstr "imagen"
+
+#: models.py:286
+msgid "Imagenes"
+msgstr "Imágenes"
+
+#: feeds.py:7
+msgid "propiedades recien anadidas en www.eliterealestate.eu)"
+msgstr "propiedades recién añadidas en www.eliterealestate.eu)"
+
+#: feeds.py:9
+msgid "visita "
+msgstr "visita "
+
+#: feeds.py:14
+msgid "propiedades destacadas en www.eliterealestate.eu)"
+msgstr "propiedades destacadas en www.eliterealestate.eu)"
+
+#: feeds.py:16 feeds.py:23
+msgid "Updates on changes and additions to chicagocrime.org."
+msgstr "Updates on changes and additions to chicagocrime.org."
+
+#: feeds.py:21
+msgid "TODOpropiedades destacadas en www.eliterealestate.eu)"
+msgstr "TODOpropiedades destacadas en www.eliterealestate.eu)"
+
+#: views.py:47
+msgid "busca"
+msgstr "busca"
+
+#: views.py:48
+msgid "hasta"
+msgstr "hasta"
+
+#: views.py:49
+msgid "sin limite de precio"
+msgstr "sin limite de precio"
+
+#: views.py:50
+msgid "en zona"
+msgstr "en zona"
+
+#: views.py:50
+msgid "cualquiera"
+msgstr "cualquiera"
+
+#: views.py:51
+msgid "con dormitorios"
+msgstr "con dormitorios"
+
+#: views.py:51
+msgid "sin precisar"
+msgstr "sin precisar"
+
+#: views.py:53
+msgid "tiene"
+msgstr "tiene"
+
+#~ msgid "Nueva Propiedad ha sido anadida"
+#~ msgstr "Nueva Propiedad ha sido añadida"
